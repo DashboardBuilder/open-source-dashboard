@@ -4,7 +4,8 @@ Open source dashboard applications can be deployed, scaled, and optimized, free 
 The Dashboard Builder is a free and open source framework for creating analytic web applications. It's mostly used to create internal <a href="https://dashboardbuilder.net/blogs/business-intelligence-dashboard" alt="Business Intelligence">business intelligence tools</a> or to add customer-facing analytics to existing applications. In most cases, the first step in developing such an application is to create an analytics dashboard. "Let's add an analytics dashboard to our admin panel," it usually begins. Then, as is customary in software development, things become much more complicated.
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/DashboardBuilder/open-source-dashboard/gh-pages/dashboard_for_php.jpg" alt="Open Source Dashboard"/>
+
+ <img src="https://raw.githubusercontent.com/DashboardBuilder/open-source-dashboard/main/dashboard_for_php.jpg" alt="Open Source Dashboard"/>
 </p>
 
 
