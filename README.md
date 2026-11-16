@@ -9,13 +9,13 @@ The Dashboard Builder is a free and open source framework for creating analytic 
 </p>
 
 
-When we first started working on the <a href="https://dashboardbuilder.net/blogs/business-intelligence-dashboard" alt="Open Source Dashboard">open source dashboard builder</a>, we wanted to create a tool that is simple to use but quickly scales in terms of features, complexity, and data volume. The open source dashboard builder lays the groundwork for your future analytical system, whether it be a standalone application or one that is integrated into an existing one.
+When we first started working on the <a href="https://dashboardbuilder.net/open-source-dashboard" alt="Open Source Dashboard">open source dashboard builder</a>, we wanted to create a tool that is simple to use but quickly scales in terms of features, complexity, and data volume. The open source dashboard builder lays the groundwork for your future analytical system, whether it be a standalone application or one that is integrated into an existing one.
 
 We'll walk you through the fundamentals of creating your first dashboard, from the database to <a href="https://dashboardbuilder.net/data-visualization-tool" alt="Data Visualization Tool">the visualizations</a>, with the open source dashboard.
 
 ## Open Source License 
 The bulk of modern online apps are constructed with open source code, which is released under an open source licence such as MIT. This MIT licence has few restrictions on reuse and excellent licencing compatibility. This licence allows for reuse within proprietary source code developed by our dashboard utility. The MIT License terms and the copyright notice are included in all copies of the source code. This licence also works with several copyleft licences, including the GNU General Public License (GPL). Our open-source tool generates source code that may be included into GPL applications.
-Similarly, the <a href="https://dashboardbuilder.net/blogs/business-intelligence-dashboard" alt="Open Source Dashboard at GitHub">Open Source Dashboard GitHub</a> is used to generate this <a href="https://dashboardbuilder.net/blogs/business-intelligence-dashboard" alt="PHP Dashboard">auto-generated PHP source code</a>. It is licenced under the MIT licence, which is the most popular software licence on GitHub. 
+Similarly, the <a href="https://dashboardbuilder.net/open-source-dashboard" alt="Open Source Dashboard at GitHub">Open Source Dashboard GitHub</a> is used to generate this <a href="https://dashboardbuilder.net/php-dashboard" alt="PHP Dashboard">auto-generated PHP source code</a>. It is licenced under the MIT licence, which is the most popular software licence on GitHub. 
 
 
 ## Frontend
